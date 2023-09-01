@@ -3,7 +3,7 @@ Latest Update:
 March 25, 2023
 
 
-🐼 All images used in this application are created by Linglin Chang.
+🐼 All images and data used in this application are created by Linglin Chang.
 
 🐼 GUI is created with Tkinter.
 
